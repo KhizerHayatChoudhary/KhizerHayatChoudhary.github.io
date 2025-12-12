@@ -1,11 +1,11 @@
-Hi, I’m Khizer Hayat Choudhary
+Hi, I’m Khizer Hayat Choudhary 👋
 
 Welcome to my GitHub profile and portfolio repository.
 This space showcases my projects, skills, and interests in software development, automation, and productivity-focused tools.
 
 I enjoy building practical, well-structured solutions and continuously learning new technologies to improve efficiency and usability.
 
-Portfolio Website
+🌐 Portfolio Website
 
 Live site: https://khizerhayatchoudhary.github.io
 
@@ -17,7 +17,7 @@ Learn about my technical background
 
 Access my public GitHub repositories
 
-About Me
+🎓 About Me
 
 Computer Science student at John Abbott College
 
@@ -27,7 +27,7 @@ Interested in productivity, automation, and finance-related tools
 
 Always eager to learn and explore new technologies
 
-Technical Skills
+🛠️ Technical Skills
 
 Languages
 
@@ -53,7 +53,7 @@ GitHub Actions
 
 Azure (learning)
 
-Projects
+🌟 Projects
 
 My repositories include projects that demonstrate:
 
@@ -65,16 +65,10 @@ Problem-solving and logical thinking
 
 Each repository contains its own README with further details.
 
-Contact
+📫 Contact
 
 Email: khizerchou@gmail.com
 
 LinkedIn: Khizer Hayat Choudhary
 
-Additional Notes
-
-Strong interest in automation and productivity improvements
-
-Supporter of open-source collaboration and knowledge sharing
-
-Open to discussions around software development, productivity, and finance tools
+Thanks for visiting! Feel free to explore my repositories, check out the portfolio, or reach out to connect 🚀
