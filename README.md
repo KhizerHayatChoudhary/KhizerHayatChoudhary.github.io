@@ -9,8 +9,6 @@ I enjoy building practical, well-structured solutions and continuously learning 
 
 ## 🌐 Portfolio Website
 
-
-
 My portfolio website is built with **GitHub Pages** and serves as a central hub where you can:
 - View selected projects  
 - Learn about my technical background  
@@ -52,12 +50,27 @@ My repositories include projects that demonstrate:
 - Workflow automation  
 - Problem-solving and logical thinking  
 
+<p style="margin-top:12px;">
+  <a href="https://github.com/KhizerHayatChoudhary/Flappy-Bird"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:10px 14px;
+       border:1px solid #30363d;
+       border-radius:8px;
+       text-decoration:none;
+       color:#ffffff;
+       background-color:#238636;
+       font-weight:500;">
+    Flappy Bird Game
+  </a>
+</p>
+
 Each repository contains its own README with further details.
 
 ---
 
 ## 📫 Contact
-
 
 <p style="margin-top:12px;">
   <a href="mailto:khizerchou@gmail.com"
@@ -93,4 +106,3 @@ Each repository contains its own README with further details.
 
 Thanks for visiting!  
 Feel free to explore my repositories, check out the portfolio, or reach out to connect 🚀
-
