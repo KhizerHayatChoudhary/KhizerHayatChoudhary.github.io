@@ -39,10 +39,10 @@ exclude:
 # --------------------------------------
 # Navigation (if your theme supports it)
 # --------------------------------------
-# nav:
-#   - name: "About"
-#     link: "/about"
-#   - name: "Projects"
-#     link: "/projects"
-#   - name: "Contact"
-#     link: "/contact"
+ nav:
+   - name: "About"
+     link: "/about"
+   - name: "Projects"
+     link: "/projects"
+   - name: "Contact"
+     link: "/contact"
