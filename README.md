@@ -65,7 +65,7 @@ My repositories include projects that demonstrate:
   </a>
 </p>
 <p style="margin-top:14px;">
-  <a href="[https://github.com/KhizerHayatChoudhary/Flappy-Bird](https://github.com/KhizerHayatChoudhary/Gym-App/tree/main)"
+  <a href="https://github.com/KhizerHayatChoudhary/Gym-App"
      target="_blank"
      style="
        display:inline-block;
@@ -75,7 +75,7 @@ My repositories include projects that demonstrate:
        background-color:#7dd3fc;
        color:#0b0f17;
        font-weight:600;">
-    Flappy Bird Game
+    Gym App
   </a>
 </p>
 
