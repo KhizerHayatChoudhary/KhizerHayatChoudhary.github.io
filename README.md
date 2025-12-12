@@ -16,6 +16,16 @@ My portfolio website is built with **GitHub Pages** and serves as a central hub 
 
 ---
 
+## 🎯 Focus & Interests
+I am particularly interested in opportunities where I can:
+- Build real-world applications  
+- Improve user experience through clean design and logic  
+- Work with automation, productivity tools, and data-driven features  
+
+I am currently seeking opportunities to grow as a developer through hands-on projects, internships, and collaborative work.
+
+---
+
 ## 🎓 About Me
 - Computer Science student at John Abbott College  
 - Passionate about building impactful software and automating workflows  
@@ -64,6 +74,9 @@ My repositories include projects that demonstrate:
     Flappy Bird Game
   </a>
 </p>
+
+A Flappy Bird–style arcade game focusing on game logic, collision detection, scoring systems, and basic physics.
+
 <p style="margin-top:14px;">
   <a href="https://github.com/KhizerHayatChoudhary/Gym-App"
      target="_blank"
@@ -79,7 +92,18 @@ My repositories include projects that demonstrate:
   </a>
 </p>
 
-Each repository contains its own README with further details.
+A fitness tracking application that allows users to log workouts, track progress over time, and build consistent habits through clear history visualization.
+
+Each repository contains its own README with further technical details.
+
+---
+
+## 🧠 Skills in Practice
+Across my projects, I have applied skills such as:
+- Designing clean and organized project structures  
+- Managing application state and user input  
+- Implementing data storage and retrieval  
+- Writing readable, maintainable code  
 
 ---
 
@@ -117,4 +141,5 @@ Each repository contains its own README with further details.
 
 Thanks for visiting!  
 Feel free to explore my repositories, check out the portfolio, or reach out to connect 🚀
+
 
