@@ -50,18 +50,17 @@ My repositories include projects that demonstrate:
 - Workflow automation  
 - Problem-solving and logical thinking  
 
-<p style="margin-top:12px;">
+<p style="margin-top:14px;">
   <a href="https://github.com/KhizerHayatChoudhary/Flappy-Bird"
      target="_blank"
      style="
        display:inline-block;
-       padding:10px 14px;
-       border:1px solid #30363d;
+       padding:10px 16px;
        border-radius:8px;
        text-decoration:none;
-       color:#ffffff;
-       background-color:#238636;
-       font-weight:500;">
+       background-color:#7dd3fc;
+       color:#0b0f17;
+       font-weight:600;">
     Flappy Bird Game
   </a>
 </p>
@@ -72,18 +71,17 @@ Each repository contains its own README with further details.
 
 ## 📫 Contact
 
-<p style="margin-top:12px;">
+<p style="margin-top:14px;">
   <a href="mailto:khizerchou@gmail.com"
      style="
        display:inline-block;
-       padding:10px 14px;
+       padding:10px 16px;
        margin-right:10px;
-       border:1px solid #30363d;
        border-radius:8px;
        text-decoration:none;
-       color:#ffffff;
-       background-color:#24292f;
-       font-weight:500;">
+       background-color:#7dd3fc;
+       color:#0b0f17;
+       font-weight:600;">
     Email
   </a>
 
@@ -91,18 +89,21 @@ Each repository contains its own README with further details.
      target="_blank"
      style="
        display:inline-block;
-       padding:10px 14px;
-       border:1px solid #30363d;
+       padding:10px 16px;
        border-radius:8px;
        text-decoration:none;
-       color:#ffffff;
-       background-color:#0a66c2;
-       font-weight:500;">
+       background-color:#7dd3fc;
+       color:#0b0f17;
+       font-weight:600;">
     LinkedIn
   </a>
 </p>
 
 ---
+
+Thanks for visiting!  
+Feel free to explore my repositories, check out the portfolio, or reach out to connect 🚀
+
 
 Thanks for visiting!  
 Feel free to explore my repositories, check out the portfolio, or reach out to connect 🚀
