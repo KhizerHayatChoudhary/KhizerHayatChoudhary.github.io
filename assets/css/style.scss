@@ -232,4 +232,12 @@ footer p, footer small {
 footer a {
   color: var(--link);
 }
+body {
+  display: flex;
+  justify-content: center;
+}
 
+/* Keep wrapper size exactly the same */
+.wrapper {
+  margin: 0 auto;
+}
