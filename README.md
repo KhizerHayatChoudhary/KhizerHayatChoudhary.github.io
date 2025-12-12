@@ -29,7 +29,7 @@ I am currently seeking opportunities to grow as a developer through hands-on pro
 ## 🎓 About Me
 - Computer Science student at John Abbott College  
 - Passionate about building impactful software and automating workflows  
-- Interested in productivity, automation, and finance-related tools  
+- Interested in productivity, automation
 - Always eager to learn and explore new technologies  
 
 ---
