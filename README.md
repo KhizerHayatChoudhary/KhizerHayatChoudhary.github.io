@@ -1,54 +1,80 @@
-Personal Portfolio Website
+Hi, I’m Khizer Hayat Choudhary
 
-This repository contains the source code for my personal portfolio website, built using GitHub Pages. The purpose of this website is to showcase my projects, technical skills, and experience in a clear and professional way.
+Welcome to my GitHub profile and portfolio repository.
+This space showcases my projects, skills, and interests in software development, automation, and productivity-focused tools.
 
-The portfolio acts as a central hub where visitors can explore my work, learn more about my background, and easily access my public GitHub repositories.
+I enjoy building practical, well-structured solutions and continuously learning new technologies to improve efficiency and usability.
 
-🌐 Live Website
+Portfolio Website
 
+Live site: https://khizerhayatchoudhary.github.io
 
-📌 Features
+My portfolio website is built with GitHub Pages and serves as a central hub where you can:
 
-Clean and professional layout
+View selected projects
 
-Easy navigation between sections
+Learn about my technical background
 
-Links to selected projects and GitHub repositories
+Access my public GitHub repositories
 
-Overview of skills, interests, and background
+About Me
 
-🛠️ Technologies Used
+Computer Science student at John Abbott College
 
-HTML
+Passionate about building impactful software and automating workflows
 
-CSS
+Interested in productivity, automation, and finance-related tools
 
-GitHub Pages
+Always eager to learn and explore new technologies
 
-(Add or remove technologies if needed)
+Technical Skills
 
-📂 Projects
+Languages
 
-This website includes links to several public repositories that demonstrate:
+Python
 
-Programming fundamentals
+JavaScript / TypeScript
+
+C#
+
+WPF
+
+Frameworks & Libraries
+
+React
+
+Node.js
+
+Tools & Platforms
+
+Docker
+
+GitHub Actions
+
+Azure (learning)
+
+Projects
+
+My repositories include projects that demonstrate:
 
 Application development
 
+Workflow automation
+
 Problem-solving and logical thinking
 
-Each linked repository contains its own README with more details about the project.
+Each repository contains its own README with further details.
 
-🚀 Purpose
+Contact
 
-The goal of this portfolio is to present my work in a professional and accessible way for:
+Email: khizerchou@gmail.com
 
-Recruiters
+LinkedIn: Khizer Hayat Choudhary
 
-Employers
+Additional Notes
 
-Collaborators
+Strong interest in automation and productivity improvements
 
-📬 Contact
+Supporter of open-source collaboration and knowledge sharing
 
-You can find my GitHub projects and additional information through this website.
+Open to discussions around software development, productivity, and finance tools
