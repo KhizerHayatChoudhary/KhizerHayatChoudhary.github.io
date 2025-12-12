@@ -1,0 +1,48 @@
+# --------------------------------------
+# Site settings
+# --------------------------------------
+title: "Khizer Hayat Choudhary"
+description: "My personal portfolio website."
+url: "https://khizerhayatchoudhary.github.io"
+baseurl: ""   # leave blank for a user site
+
+# --------------------------------------
+# Theme
+# --------------------------------------
+theme: jekyll-theme-minimal
+
+# --------------------------------------
+# Markdown / Permalinks
+# --------------------------------------
+markdown: kramdown
+permalink: pretty
+
+# --------------------------------------
+# Optional plugins supported on GitHub Pages
+# --------------------------------------
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# --------------------------------------
+# Optional settings (you can modify)
+# --------------------------------------
+# Show the last updated date on posts/pages
+# last_updated_at: true
+
+# Exclude files/folders from the published site
+exclude:
+  - README.md
+  - node_modules/
+  - .github/
+
+# --------------------------------------
+# Navigation (if your theme supports it)
+# --------------------------------------
+# nav:
+#   - name: "About"
+#     link: "/about"
+#   - name: "Projects"
+#     link: "/projects"
+#   - name: "Contact"
+#     link: "/contact"
