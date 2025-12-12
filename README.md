@@ -9,11 +9,7 @@ I enjoy building practical, well-structured solutions and continuously learning 
 
 ## 🌐 Portfolio Website
 
-<p>
-  <a href="https://khizerhayatchoudhary.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0A0F1F?style=for-the-badge&logo=githubpages&logoColor=white">
-  </a>
-</p>
+
 
 My portfolio website is built with **GitHub Pages** and serves as a central hub where you can:
 - View selected projects  
@@ -50,12 +46,6 @@ My portfolio website is built with **GitHub Pages** and serves as a central hub 
 ---
 
 ## 🌟 Projects
-
-<p>
-  <a href="https://github.com/KhizerHayatChoudhary?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Public%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
 
 My repositories include projects that demonstrate:
 - Application development  
