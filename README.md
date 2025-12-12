@@ -64,6 +64,20 @@ My repositories include projects that demonstrate:
     Flappy Bird Game
   </a>
 </p>
+<p style="margin-top:14px;">
+  <a href="[https://github.com/KhizerHayatChoudhary/Flappy-Bird](https://github.com/KhizerHayatChoudhary/Gym-App/tree/main)"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:10px 16px;
+       border-radius:8px;
+       text-decoration:none;
+       background-color:#7dd3fc;
+       color:#0b0f17;
+       font-weight:600;">
+    Flappy Bird Game
+  </a>
+</p>
 
 Each repository contains its own README with further details.
 
@@ -104,6 +118,3 @@ Each repository contains its own README with further details.
 Thanks for visiting!  
 Feel free to explore my repositories, check out the portfolio, or reach out to connect 🚀
 
-
-Thanks for visiting!  
-Feel free to explore my repositories, check out the portfolio, or reach out to connect 🚀
