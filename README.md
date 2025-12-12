@@ -68,16 +68,18 @@ Each repository contains its own README with further details.
 
 ## 📫 Contact
 
-<p>
+
+<p style="margin-top:12px;">
   <a href="mailto:khizerchou@gmail.com"
      style="
        display:inline-block;
        padding:10px 14px;
        margin-right:10px;
-       border:1px solid #d0d7de;
+       border:1px solid #30363d;
        border-radius:8px;
        text-decoration:none;
-       color:#24292f;
+       color:#ffffff;
+       background-color:#24292f;
        font-weight:500;">
     Email
   </a>
@@ -87,10 +89,11 @@ Each repository contains its own README with further details.
      style="
        display:inline-block;
        padding:10px 14px;
-       border:1px solid #d0d7de;
+       border:1px solid #30363d;
        border-radius:8px;
        text-decoration:none;
-       color:#24292f;
+       color:#ffffff;
+       background-color:#0a66c2;
        font-weight:500;">
     LinkedIn
   </a>
