@@ -69,11 +69,30 @@ Each repository contains its own README with further details.
 ## 📫 Contact
 
 <p>
-  <a href="mailto:khizerchou@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0F1F?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:khizerchou@gmail.com"
+     style="
+       display:inline-block;
+       padding:10px 14px;
+       margin-right:10px;
+       border:1px solid #d0d7de;
+       border-radius:8px;
+       text-decoration:none;
+       color:#24292f;
+       font-weight:500;">
+    Email
   </a>
-  <a href="https://www.linkedin.com/in/khizer-hayat-choudhary/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
+  <a href="https://www.linkedin.com/in/khizer-choudhary-022189336/"
+     target="_blank"
+     style="
+       display:inline-block;
+       padding:10px 14px;
+       border:1px solid #d0d7de;
+       border-radius:8px;
+       text-decoration:none;
+       color:#24292f;
+       font-weight:500;">
+    LinkedIn
   </a>
 </p>
 
